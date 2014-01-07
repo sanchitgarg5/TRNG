@@ -1,4 +1,4 @@
-TRNG
+True Random Number Generator
 ====
 
 This is a true random number generator. It generates random numbers using atmospheric noise (which is captured through a microphone) and mouse movement.
